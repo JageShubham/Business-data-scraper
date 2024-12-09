@@ -7,7 +7,7 @@ A web scraping tool to collect business-related data from various platforms like
 - Saves the data in CSV format.
 ### Installation
 1. Clone the repository:
-git clone [https://github.com/your-repo/business-data-scraper.git](https://github.com/JageShubham0/business-info-scraper)
+git clone https://github.com/JageShubham/Business-data-scraper.git
 2. Install the dependencies:
 pip install -r requirements.txt
 ### Usage
